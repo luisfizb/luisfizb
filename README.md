@@ -1,24 +1,8 @@
-## Hi there 👋
-
-<!--
-**luisfizb/luisfizb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Data Analyst
+# LUIS
+**Data Analyst**
 
 ## Education
-- Msc in Data Analytics and Artificial Intelligence - EDHEC Business School
+- Msc in Data Analytics and Artificial Intelligence - EDHEC BUSINESS School
 - Bachelor in Industrial Engineering - Universidad de Lima
 
 ## Work Experience
@@ -46,5 +30,7 @@ Data Analytics Assistant @Ernst & Young
 ## Projects
 
 -Project1: Personal Finance Analyzer
+-Project2: <ul><li>[Predicting Credit Card Default](https://github.com/luisfizb/default_credit_card)</li></ul>   
 -Project2: Analysing Marketing Performance
 -Project3: 
+  
