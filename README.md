@@ -2,7 +2,7 @@
 **Data Analyst**
 
 ## Education
-- Msc in Data Analytics and Artificial Intelligence - EDHEC BUSINESS School
+- Msc in Data Analytics and Artificial Intelligence - EDHEC Business School
 - Bachelor in Industrial Engineering - Universidad de Lima
   
 
