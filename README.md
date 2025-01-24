@@ -7,7 +7,7 @@
   
 
 ## Work Experience
-Data Analyst @Nissan (July 2024 - December 2024)
+Data Analyst @Nissan
 
 Senior Data Analyst @Rappi
 
